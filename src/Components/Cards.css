@@ -1,0 +1,46 @@
+.main{
+    display: flex;
+    gap: 100px;
+    
+}
+.tag-cloud {
+    display: flex;
+    padding: 8px 20px;
+    border-radius: 10px;
+    background-color: white;
+    margin-top: 8px;
+    width: 20%;
+    height: 4rem;
+    font-size: 1.75rem;
+    font-weight: bold;
+    justify-content: flex-start;
+    gap :20px
+  }
+  .box{
+    display: flex;
+    justify-content: end;
+    flex-direction: row;
+    width: 30%;
+    height: 4.5rem;
+    border-radius: 10px;
+    background-color: white;
+    justify-content: flex-end;
+  }
+  .card1{
+    background-color: rgb(144, 141, 223);
+  }
+  .card1{
+    background-color: rgb(144, 141, 223);
+  }
+  .card2{
+    background-color: rgb(4, 185, 49);
+  }
+  .card3{
+    background-color: rgb(251, 96, 109);
+  }
+  h6{
+    margin-left: 30px;
+    padding: 10px;
+    background-color: none;
+    border-radius: 40px;
+  }
